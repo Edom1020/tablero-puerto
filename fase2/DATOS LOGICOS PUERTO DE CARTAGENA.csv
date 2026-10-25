@@ -1,0 +1,151 @@
+ID_Registro,Buque,Tipo_Carga,Hora_Llegada,Hora_Atraque,Tiempo_Espera_Horas,Tiempo_Muelle_Horas,TEUs_Ocupados,Condicion_Climatica
+REG-1000,Buque_107,Carga General,2026-08-29 14:42,2026-08-29 15:14,0.54,25.5,0,Lluvia Ligera
+REG-1001,Buque_123,Granel Sólido,2026-08-11 23:52,2026-08-12 00:54,1.04,16.16,0,Lluvia Ligera
+REG-1002,Buque_121,Contenedores,2026-08-12 21:43,2026-08-12 22:13,0.5,14.11,3247,Despejado
+REG-1003,Buque_116,Granel Sólido,2026-08-30 14:50,2026-08-30 16:18,1.48,19.24,0,Despejado
+REG-1004,Buque_105,Granel Sólido,2026-08-07 20:08,2026-08-07 21:09,1.02,21.32,0,Despejado
+REG-1005,Buque_121,Granel Líquido,2026-08-20 14:59,2026-08-20 16:03,1.07,17.98,0,Despejado
+REG-1006,Buque_114,Contenedores,2026-08-04 17:39,2026-08-04 18:09,0.5,10.76,2700,Lluvia Ligera
+REG-1007,Buque_118,Granel Líquido,2026-08-12 01:09,2026-08-12 05:14,4.09,18.6,0,Viento Fuerte
+REG-1008,Buque_108,Granel Líquido,2026-08-23 07:20,2026-08-23 09:27,2.12,16.12,0,Despejado
+REG-1009,Buque_125,Carga General,2026-08-28 12:40,2026-08-28 13:10,0.5,13.22,0,Despejado
+REG-1010,Buque_108,Carga General,2026-08-11 18:16,2026-08-11 20:08,1.88,22.56,0,Lluvia Ligera
+REG-1011,Buque_110,Granel Sólido,2026-08-26 08:27,2026-08-26 10:44,2.29,21.85,0,Viento Fuerte
+REG-1012,Buque_116,Granel Sólido,2026-08-23 23:36,2026-08-24 01:46,2.17,19.04,0,Lluvia Ligera
+REG-1013,Buque_101,Granel Sólido,2026-08-05 14:13,2026-08-05 19:28,5.25,20.74,0,Tormenta
+REG-1014,Buque_114,Granel Sólido,2026-08-27 08:14,2026-08-27 09:48,1.57,16.95,0,Despejado
+REG-1015,Buque_120,Contenedores,2026-08-04 04:22,,,12.67,3772,Lluvia Ligera
+REG-1016,Buque_107,Granel Sólido,2026-08-19 21:27,2026-08-20 01:21,3.9,22.05,0,Viento Fuerte
+REG-1017,Buque_106,Carga General,2026-08-28 11:43,2026-08-28 12:56,1.22,20.63,0,Despejado
+REG-1018,Buque_123,Carga General,2026-08-25 06:32,2026-08-25 07:02,0.5,14.43,0,Despejado
+REG-1019,Buque_106,Carga General,2026-08-27 08:36,2026-08-27 09:22,0.77,15.14,0,Lluvia Ligera
+REG-1020,Buque_122,Carga General,2026-08-24 08:51,2026-08-24 10:20,1.49,12.14,0,Despejado
+REG-1021,Buque_117,Contenedores,2026-08-17 23:16,2026-08-18 00:13,0.95,13.21,2054,Despejado
+REG-1022,Buque_105,Carga General,2026-08-01 00:18,2026-08-01 00:48,0.5,23.18,0,Lluvia Ligera
+REG-1023,Buque_106,Carga General,2026-08-23 03:54,2026-08-23 06:01,2.13,14.82,0,Lluvia Ligera
+REG-1024,Buque_124,Contenedores,2026-08-20 01:05,2026-08-20 02:29,1.41,13.9,4472,Despejado
+REG-1025,Buque_106,Carga General,2026-08-29 02:19,2026-08-29 04:23,2.07,14.67,0,Despejado
+REG-1026,Buque_119,Carga General,2026-08-07 19:40,2026-08-07 21:40,2.0,17.44,0,Lluvia Ligera
+REG-1027,Buque_101,Granel Sólido,2026-08-28 17:22,2026-08-28 18:02,0.68,20.59,0,Despejado
+REG-1028,Buque_116,Granel Líquido,2026-08-16 19:59,2026-08-16 22:17,2.3,18.53,0,Despejado
+REG-1029,Buque_123,Contenedores,2026-08-09 02:18,2026-08-09 03:47,1.49,16.26,1786,Lluvia Ligera
+REG-1030,Buque_117,Carga General,2026-08-04 05:39,2026-08-04 07:17,1.64,13.74,0,Lluvia Ligera
+REG-1031,Buque_122,Granel Sólido,2026-08-16 08:35,2026-08-16 09:29,0.9,14.04,0,Lluvia Ligera
+REG-1032,Buque_120,Carga General,2026-08-08 06:02,2026-08-08 06:50,0.81,18.51,0,Lluvia Ligera
+REG-1033,Buque_119,Granel Líquido,2026-08-23 21:45,2026-08-23 23:14,1.49,19.45,0,Despejado
+REG-1034,Buque_108,Granel Sólido,2026-08-27 01:20,2026-08-27 02:37,1.29,27.52,0,Despejado
+REG-1035,Buque_105,Carga General,2026-08-29 15:18,2026-08-29 16:47,1.49,18.67,0,Despejado
+REG-1036,Buque_114,Contenedores,2026-08-06 02:59,2026-08-06 03:53,0.9,14.59,1380,Despejado
+REG-1037,Buque_103,Carga General,2026-08-01 19:20,2026-08-01 20:44,1.41,11.88,0,Despejado
+REG-1038,Buque_118,Contenedores,2026-08-10 21:57,2026-08-11 00:01,2.08,16.86,1354,Viento Fuerte
+REG-1039,Buque_110,Granel Líquido,2026-08-26 16:39,2026-08-26 17:22,0.73,22.84,0,Lluvia Ligera
+REG-1040,Buque_110,Granel Sólido,2026-08-26 02:49,2026-08-26 06:20,3.52,21.05,0,Viento Fuerte
+REG-1041,Buque_125,Carga General,2026-08-13 19:00,2026-08-13 20:03,1.06,17.55,0,Despejado
+REG-1042,Buque_119,,2026-08-15 01:01,2026-08-15 01:33,0.54,22.2,0,Despejado
+REG-1043,Buque_122,Granel Líquido,2026-08-26 21:48,2026-08-26 22:55,1.12,21.81,0,Despejado
+REG-1044,Buque_105,Contenedores,2026-08-08 20:59,2026-08-08 21:29,0.5,12.76,2076,Despejado
+REG-1045,Buque_120,Granel Líquido,2026-08-15 02:54,2026-08-15 03:24,0.5,11.03,0,Despejado
+REG-1046,Buque_123,Granel Líquido,2026-08-05 20:22,2026-08-05 21:34,1.21,18.55,0,Despejado
+REG-1047,Buque_101,Granel Sólido,2026-08-02 21:47,2026-08-02 23:26,1.65,20.02,0,Despejado
+REG-1048,Buque_107,Carga General,2026-08-05 21:28,2026-08-05 22:23,0.92,13.52,0,Despejado
+REG-1049,Buque_105,Granel Líquido,2026-08-25 13:27,2026-08-25 14:45,1.31,24.55,0,Despejado
+REG-1050,Buque_116,Contenedores,2026-08-07 03:32,2026-08-07 04:11,0.66,12.49,2981,Despejado
+REG-1051,Buque_105,Carga General,2026-08-02 19:30,2026-08-02 21:00,1.5,20.65,0,Despejado
+REG-1052,Buque_124,Contenedores,2026-08-13 03:15,2026-08-13 04:05,0.84,12.21,2095,Despejado
+REG-1053,Buque_120,Carga General,2026-08-12 17:34,2026-08-12 20:46,3.21,11.17,0,Lluvia Ligera
+REG-1054,Buque_105,Carga General,2026-08-03 00:32,2026-08-03 01:29,0.96,14.96,0,Lluvia Ligera
+REG-1055,Buque_112,Granel Sólido,2026-08-14 01:50,2026-08-14 04:18,2.48,13.48,0,Lluvia Ligera
+REG-1056,Buque_110,Granel Líquido,2026-08-30 01:50,2026-08-30 03:37,1.79,15.57,0,Despejado
+REG-1057,Buque_113,Granel Sólido,2026-08-29 23:35,2026-08-30 01:07,1.54,19.73,0,Despejado
+REG-1058,Buque_105,Contenedores,2026-08-24 02:48,2026-08-24 03:30,0.71,10.08,3343,Lluvia Ligera
+REG-1059,Buque_124,Granel Sólido,2026-08-30 04:11,2026-08-30 06:20,2.16,20.85,0,Despejado
+REG-1060,Buque_109,Granel Líquido,2026-08-17 16:19,2026-08-17 22:52,6.55,16.91,0,Tormenta
+REG-1061,Buque_117,Carga General,2026-08-12 08:18,2026-08-12 10:03,1.76,17.54,0,Despejado
+REG-1062,Buque_120,Granel Sólido,2026-08-26 14:15,2026-08-26 14:57,0.7,13.75,0,Despejado
+REG-1063,Buque_121,Carga General,2026-08-21 22:15,2026-08-21 23:44,1.49,14.86,0,Lluvia Ligera
+REG-1064,Buque_107,Granel Líquido,2026-08-26 04:34,2026-08-26 07:24,2.84,16.88,0,Viento Fuerte
+REG-1065,Buque_112,Contenedores,2026-08-10 11:16,2026-08-10 12:28,1.2,10.23,3417,Despejado
+REG-1066,Buque_109,Granel Líquido,2026-08-27 01:04,2026-08-27 02:55,1.86,12.88,0,Despejado
+REG-1067,Buque_113,Contenedores,2026-08-22 19:16,2026-08-22 21:41,2.43,11.25,3692,Viento Fuerte
+REG-1068,Buque_112,Granel Líquido,2026-08-07 09:25,2026-08-07 09:55,0.5,16.52,0,Despejado
+REG-1069,Buque_118,Carga General,2026-08-30 19:27,2026-08-30 21:23,1.94,20.57,0,Lluvia Ligera
+REG-1070,Buque_103,Contenedores,2026-08-28 16:24,2026-08-28 19:34,3.18,12.04,2452,Viento Fuerte
+REG-1071,Buque_104,Granel Sólido,2026-08-19 19:56,2026-08-19 22:35,2.66,21.36,0,Despejado
+REG-1072,Buque_101,Contenedores,2026-08-22 21:02,2026-08-23 01:47,4.75,9.17,2231,Viento Fuerte
+REG-1073,Buque_104,Granel Líquido,2026-08-08 17:27,2026-08-08 19:13,1.77,24.57,0,Despejado
+REG-1074,Buque_101,Contenedores,2026-08-20 12:27,2026-08-20 13:21,0.9,14.27,1908,Despejado
+REG-1075,Buque_115,Contenedores,2026-08-02 09:55,2026-08-02 11:55,2.01,12.66,2215,Viento Fuerte
+REG-1076,Buque_101,Granel Líquido,2026-08-01 17:31,2026-08-01 22:07,4.6,15.63,0,Viento Fuerte
+REG-1077,Buque_125,Granel Líquido,2026-08-27 16:12,2026-08-27 17:58,1.77,24.69,0,Despejado
+REG-1078,Buque_105,Granel Líquido,2026-08-03 20:22,2026-08-03 21:37,1.25,12.4,0,Lluvia Ligera
+REG-1079,Buque_114,Contenedores,2026-08-19 12:12,2026-08-19 13:28,1.27,13.73,3281,Despejado
+REG-1080,Buque_108,Granel Sólido,2026-08-26 01:53,2026-08-26 04:19,2.44,18.24,0,Lluvia Ligera
+REG-1081,Buque_122,Carga General,2026-08-05 16:47,2026-08-05 19:24,2.62,16.64,0,Despejado
+REG-1082,Buque_114,Granel Líquido,2026-08-11 18:38,2026-08-11 19:08,0.5,23.06,0,Despejado
+REG-1083,Buque_119,Granel Sólido,2026-08-02 19:56,2026-08-02 21:02,1.11,22.67,0,Despejado
+REG-1084,Buque_123,Granel Líquido,2026-08-19 16:04,2026-08-19 18:32,2.47,17.5,0,Lluvia Ligera
+REG-1085,Buque_117,Carga General,2026-08-20 23:04,2026-08-21 00:55,1.85,17.69,0,Viento Fuerte
+REG-1086,Buque_111,Granel Sólido,2026-08-16 10:50,2026-08-16 14:12,3.37,14.14,0,Despejado
+REG-1087,Buque_111,Granel Líquido,2026-08-16 07:03,2026-08-16 09:09,2.1,16.98,0,Despejado
+REG-1088,Buque_103,Granel Sólido,2026-08-29 17:57,2026-08-29 19:03,1.1,-5.0,0,Despejado
+REG-1089,Buque_110,Contenedores,2026-08-22 20:05,2026-08-22 20:35,0.5,11.33,3793,Despejado
+REG-1090,Buque_117,Granel Líquido,2026-08-26 12:26,2026-08-26 14:20,1.91,22.22,0,Despejado
+REG-1091,Buque_115,Carga General,2026-08-30 10:47,2026-08-30 12:57,2.18,15.83,0,Despejado
+REG-1092,Buque_117,Granel Sólido,2026-08-29 19:14,2026-08-29 20:42,1.47,18.2,0,Despejado
+REG-1093,Buque_123,Granel Líquido,2026-08-24 01:44,2026-08-24 03:55,2.19,19.65,0,Despejado
+REG-1094,Buque_111,Granel Sólido,2026-08-28 12:17,2026-08-28 12:47,0.5,18.71,0,Despejado
+REG-1095,Buque_125,Granel Sólido,2026-08-05 09:38,2026-08-05 10:36,0.98,14.21,0,Despejado
+REG-1096,Buque_112,Contenedores,2026-08-17 12:19,2026-08-17 14:23,2.07,7.42,2369,Despejado
+REG-1097,Buque_115,Carga General,2026-08-15 21:33,2026-08-16 00:13,2.68,24.95,0,Despejado
+REG-1098,Buque_110,Contenedores,2026-08-05 05:51,2026-08-05 06:21,0.5,15.29,2076,Lluvia Ligera
+REG-1099,Buque_106,Contenedores,2026-08-25 00:52,2026-08-25 01:29,0.63,9.81,3763,Despejado
+REG-1100,Buque_111,Granel Líquido,2026-08-30 23:54,2026-08-31 06:02,6.14,21.18,0,Tormenta
+REG-1101,Buque_111,Carga General,2026-08-15 05:53,2026-08-15 07:47,1.9,14.58,0,Despejado
+REG-1102,Buque_125,Granel Líquido,2026-08-15 10:07,2026-08-15 11:16,1.16,19.73,0,Despejado
+REG-1103,Buque_122,Carga General,2026-08-19 19:32,2026-08-19 22:30,2.98,18.93,0,Lluvia Ligera
+REG-1104,Buque_114,Carga General,2026-08-06 04:10,2026-08-06 08:22,4.21,12.1,0,Viento Fuerte
+REG-1105,Buque_106,Granel Líquido,2026-08-24 09:04,2026-08-24 10:05,1.02,20.66,0,Despejado
+REG-1106,Buque_105,Contenedores,2026-08-17 08:10,2026-08-17 10:11,2.03,13.63,2318,Despejado
+REG-1107,Buque_117,Contenedores,2026-08-30 11:49,2026-08-30 12:57,1.14,12.31,3835,Despejado
+REG-1108,Buque_103,Granel Sólido,2026-08-01 07:21,2026-08-01 09:18,1.96,19.74,0,Despejado
+REG-1109,Buque_105,Granel Líquido,2026-08-28 02:20,2026-08-28 04:21,2.02,13.48,0,Despejado
+REG-1110,Buque_104,Contenedores,2026-08-13 09:24,2026-08-13 11:49,2.42,10.61,4047,Lluvia Ligera
+REG-1111,Buque_119,Contenedores,2026-08-06 00:22,2026-08-06 00:52,0.5,15.49,4254,Despejado
+REG-1112,Buque_123,Granel Líquido,2026-08-14 20:39,2026-08-14 21:09,0.5,23.01,0,Despejado
+REG-1113,Buque_103,Granel Sólido,2026-08-19 07:41,2026-08-19 09:35,1.91,22.37,0,Despejado
+REG-1114,Buque_120,Granel Líquido,2026-08-07 03:28,2026-08-07 04:05,0.63,15.14,0,Despejado
+REG-1115,Buque_123,Contenedores,2026-08-30 03:21,2026-08-30 05:39,2.31,11.86,2341,Lluvia Ligera
+REG-1116,Buque_106,Contenedores,2026-08-15 03:44,2026-08-15 05:45,2.03,10.44,4532,Despejado
+REG-1117,Buque_115,Carga General,2026-08-12 12:01,2026-08-12 14:34,2.56,25.0,0,Despejado
+REG-1118,Buque_111,Granel Sólido,2026-08-05 19:10,2026-08-05 21:43,2.56,15.62,0,Viento Fuerte
+REG-1119,Buque_123,Granel Sólido,2026-08-26 13:42,2026-08-26 15:20,1.64,27.25,0,Despejado
+REG-1120,Buque_125,Contenedores,2026-08-15 07:59,2026-08-15 09:56,1.96,14.35,4649,Despejado
+REG-1121,Buque_109,Granel Líquido,2026-08-19 13:39,2026-08-19 19:09,5.5,16.27,0,Tormenta
+REG-1122,Buque_104,Granel Líquido,2026-08-23 00:53,2026-08-23 01:23,0.5,23.35,0,Despejado
+REG-1123,Buque_109,Contenedores,2026-08-09 09:51,2026-08-09 10:21,0.5,12.86,3491,Lluvia Ligera
+REG-1124,Buque_125,Granel Líquido,2026-08-11 05:01,2026-08-11 07:11,2.17,17.87,0,Despejado
+REG-1125,Buque_111,Granel Sólido,2026-08-12 18:53,2026-08-12 19:23,0.5,17.81,0,Despejado
+REG-1126,Buque_124,Contenedores,2026-08-17 10:21,2026-08-17 11:24,1.06,6.8,2048,Despejado
+REG-1127,Buque_120,Contenedores,2026-08-17 19:53,2026-08-17 21:48,1.93,12.52,1526,Viento Fuerte
+REG-1128,Buque_101,Carga General,2026-08-13 22:50,2026-08-14 00:14,1.41,18.54,0,Despejado
+REG-1129,Buque_117,Contenedores,2026-08-29 15:39,2026-08-29 17:28,1.83,8.5,4257,Despejado
+REG-1130,Buque_102,Granel Líquido,2026-08-28 16:49,2026-08-28 18:01,1.21,18.83,0,Despejado
+REG-1131,Buque_108,Contenedores,2026-08-23 06:02,2026-08-23 07:42,1.67,7.36,4651,Despejado
+REG-1132,Buque_101,Granel Sólido,2026-08-23 17:06,2026-08-23 19:10,2.08,14.05,0,Lluvia Ligera
+REG-1133,Buque_108,Granel Líquido,2026-08-25 14:36,2026-08-25 15:07,0.52,20.5,0,Despejado
+REG-1134,Buque_102,Granel Sólido,2026-08-24 13:31,2026-08-24 16:43,3.21,22.06,0,Viento Fuerte
+REG-1135,Buque_105,Granel Líquido,2026-08-21 13:30,2026-08-21 15:10,1.68,15.49,0,Despejado
+REG-1136,Buque_101,Granel Sólido,2026-08-21 18:47,2026-08-21 19:17,0.5,24.18,0,Despejado
+REG-1137,Buque_102,Contenedores,2026-08-15 04:19,2026-08-15 04:56,0.63,15.81,4390,Despejado
+REG-1138,Buque_112,Carga General,2026-08-05 04:37,2026-08-05 06:52,2.26,16.74,0,Lluvia Ligera
+REG-1139,Buque_103,Carga General,2026-08-26 21:43,2026-08-26 23:11,1.47,21.86,0,Despejado
+REG-1140,Buque_114,Granel Sólido,2026-08-17 17:50,2026-08-17 20:02,2.2,21.7,0,Despejado
+REG-1141,Buque_125,Granel Sólido,2026-08-09 21:21,2026-08-10 03:21,6.01,19.22,0,Tormenta
+REG-1142,Buque_113,Granel Líquido,2026-08-23 04:10,2026-08-23 11:14,7.08,18.44,0,Tormenta
+REG-1143,Buque_109,Granel Líquido,2026-08-02 16:36,2026-08-02 17:43,1.12,19.84,0,Lluvia Ligera
+REG-1144,Buque_110,Granel Líquido,2026-08-21 05:26,2026-08-21 08:15,2.83,21.55,0,Despejado
+REG-1145,Buque_107,Granel Líquido,2026-08-13 16:25,2026-08-13 17:35,1.17,23.09,0,Despejado
+REG-1146,Buque_102,Carga General,2026-08-22 10:00,2026-08-22 10:30,0.5,20.03,0,Despejado
+REG-1147,Buque_121,Granel Sólido,2026-08-08 10:35,2026-08-08 12:32,1.96,11.86,0,Lluvia Ligera
+REG-1148,Buque_102,Granel Sólido,2026-08-15 23:53,2026-08-16 00:23,0.5,17.57,0,Despejado
+REG-1149,Buque_115,Carga General,2026-08-19 02:51,2026-08-19 06:24,3.55,17.66,0,Despejado

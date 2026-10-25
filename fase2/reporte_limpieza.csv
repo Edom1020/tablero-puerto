@@ -1,0 +1,6 @@
+﻿ID_Registro,Columna,Valor_Original,Valor_Nuevo,Motivo
+REG-1088,Tiempo_Muelle_Horas,-5.0,nulo (temporal),Valor imposible (<= 0 horas)
+REG-1042,Tipo_Carga,nulo,Sin Clasificar,Tipo de carga desconocido
+REG-1088,Tiempo_Muelle_Horas,nulo,19.48,Mediana de Granel Sólido
+REG-1015,Tiempo_Espera_Horas,nulo,0.71,Mediana de Contenedores con Lluvia Ligera
+REG-1015,Hora_Atraque,nulo,2026-08-04 05:04:00,Llegada + espera imputada
